@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2806fae0a7421f",
+        "id": "913853d484812534",
         "type": "tabs",
         "children": [
           {
-            "id": "ef7d8bc3e0d358c5",
+            "id": "bed8905b4f0c1f9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Flexbox/Flexbox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b6be62821a345d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Flexbox/Axes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c4585360940d1b88",
@@ -160,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b6be62821a345d9",
+  "active": "1cf4d9ee0e8b5e4e",
   "lastOpenFiles": [
     "projects/landing-page/style.css",
     "projects/landing-page/index.html",
