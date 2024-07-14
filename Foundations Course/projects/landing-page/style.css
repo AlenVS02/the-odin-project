@@ -129,7 +129,6 @@ img {
 }
 
 .sign-up-button:hover {
-    /* transform: scale(1.075); */
     opacity: 1;
 }
 
@@ -143,6 +142,11 @@ img {
     max-width: 100%;
     aspect-ratio: 21 / 9;
     object-fit: cover;
+    transition: all ease-in-out 0.5s;
+}
+
+.hero-image:hover {
+    aspect-ratio: 21 / 12;
 }
 
 
@@ -155,7 +159,6 @@ img {
     flex-direction: column;
     align-items: center;
     gap: 5em;
-    padding-bottom: 5em;
 }
 
 .cards-header {
@@ -193,7 +196,7 @@ img {
     max-width: 100%;
     aspect-ratio: 1;
     object-fit: cover;
-    transition: all ease-in-out 5s;
+    transition: all ease-in-out 0.25s;
 }
 
 .sections.quote-section {

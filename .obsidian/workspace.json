@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "913853d484812534",
+        "id": "e619299a0d9bfefa",
         "type": "tabs",
         "children": [
           {
-            "id": "bed8905b4f0c1f9b",
+            "id": "6a917506a807f925",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Foundations Course/Javascript/Problem Solving.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c4585360940d1b88",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Flexbox/Axes.md",
+                "file": "Notes/Foundations Course/Javascript/Problem Solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Flexbox/Axes.md",
+                "file": "Notes/Foundations Course/Javascript/Problem Solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Flexbox/Axes.md"
+                "file": "Notes/Foundations Course/Javascript/Problem Solving.md"
               }
             }
           }
@@ -142,18 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cf4d9ee0e8b5e4e",
+  "active": "6a917506a807f925",
   "lastOpenFiles": [
+    "Notes/Foundations Course/Flexbox/Flexbox.md",
+    "Notes/Foundations Course/Javascript/Problem Solving.md",
+    "Exercises/JS/functions.html",
+    "Exercises/JS/function-",
+    "Exercises/JS/age.html",
+    "Exercises/JS/function-library.html",
+    "Exercises/JS/function-scope.html",
+    "Exercises/JS",
+    "Notes/Foundations Course",
+    "Notes/Foundations Course/Javascript",
     "projects/landing-page/style.css",
     "projects/landing-page/index.html",
-    "projects/landing-page",
-    "Notes/Flexbox/Axes.md",
-    "Notes/Flexbox/Flexbox.md",
-    "Notes/CSS Foundations/The Box Model.md",
-    "Notes/CSS Foundations",
-    "Notes/Flexbox",
+    "Notes/Foundations Course/Flexbox/Axes.md",
+    "Notes/Foundations Course/CSS Foundations/The Box Model.md",
     "Fundamentals/The Box Model.md",
-    "Fundamentals/Flexbox.md",
-    "Fundamentals"
+    "Fundamentals/Flexbox.md"
   ]
 }
